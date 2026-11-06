@@ -1,8 +1,6 @@
 # Redes-Neuronales-y-Deep-Q-Learning
 # Bitácora de Aprendizaje: De las Bases de la IA a Redes Neuronales y Deep Q-Learning
 
-Este repositorio documenta el viaje de estudio autodidacta enfocado en comprender los cimientos de la Inteligencia Artificial, transitando desde la lógica simbólica y la recursividad hasta arquitecturas avanzadas de aprendizaje profundo y sistemas multi-agente.
-
 ## Evolución del Trayecto de Aprendizaje
 
 1. **Lógica Simbólica y Búsqueda (Prolog):**
